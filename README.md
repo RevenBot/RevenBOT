@@ -1,7 +1,33 @@
-<h1>Hi 👋, I'm Kevin </h1>
-<h3>A passionate programmer from Ecuador, I currently live in Italia</h3>
+
+# Hi, I'm Kevin! 👋
 
 
-- 🌱 I’m currently learning **Java, C#, Python, MySQL, HTML5, CSS3, JAVASCRIPT**
+## 🚀 About Me
+Junior Full Stack Developer, determined to grow professionally in the field of web development, always eager to learn and face new challenges.
 
-- 📫 How to reach me **kevinjss97@gmail.com**
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://revenbot.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-de-jesus-sinchi-soto)
+
+
+## 🛠 Skills
+Javascript, HTML, CSS ...
+
+React, Blazor ...
+
+.NET, Django ...
+
+MySql, PostgreSQL ...
+
+
+## Other 
+👩‍💻 I'm currently working on DevOps Example Project
+
+🧠 I'm currently learning DevOps ecosystem
+
+🤔 I'm looking for a mentor :)
+
+⚡️ Fun fact: I hate frontend and backend
+
+
