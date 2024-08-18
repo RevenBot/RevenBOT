@@ -28,6 +28,6 @@ MySql, PostgreSQL ...
 
 🤔 I'm looking for a mentor :)
 
-⚡️ Fun fact: I hate frontend and backend
+⚡️ Fun fact: I hate frontend and backend but I do it to survive :)
 
 
