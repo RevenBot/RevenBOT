@@ -26,8 +26,5 @@ MySql, PostgreSQL ...
 
 🧠 I'm currently learning DevOps ecosystem
 
-🤔 I'm looking for a mentor :)
-
-⚡️ Fun fact: I hate frontend and backend but I do it to survive :)
 
 
